@@ -1,2 +1,2 @@
-﻿#!/bin/sh
-feh  --bg-scale '/revengeinstaller1.jpg' 
+#!/bin/sh
+feh  --bg-scale '/Zen_decking.png' 

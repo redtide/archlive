@@ -1,2 +1,2 @@
-# revenge_installer-iso
-The iso for the revenge installer
+# zen_installer-iso
+The iso for the Zen installer
