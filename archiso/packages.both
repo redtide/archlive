@@ -51,7 +51,10 @@ xfce4-terminal
 leafpad
 polkit-gnome
 gnome-keyring
-chromium
+firefox
+pacaur
+obmenu-generator
+pcmanfm-gtk3
 
 #archiso
 arch-install-scripts
