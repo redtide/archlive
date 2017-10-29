@@ -17,7 +17,7 @@ title="Zen Installer Network Tool"
 
 # Greeting user and advising user to connect if not already
 greeting () { 
-zenity --question --title="$title" --text "Welcome to the Zen Installer\nPlease ensure that you have an active internet connection.\nIf you need to connect via wifi, you may click the network icon in the above panel.\nIf you are using a wired connection, Network Manager should automatically detect it and connect.\nWhen you have connected to the internet, click the 'yes' button to proceed.\nIf you would like to exit the installer you may click 'no'.\nTo open a terminal and use this as a rescue cd, hit ctrl+alt+t." --height=40
+zenity --question --width=450 --height=500 --title="$title" --text "Welcome to the Zen Installer\nPlease ensure that you have an active internet connection.\nIf you need to connect via wifi, you may click the network icon in the above panel.\nIf you are using a wired connection, Network Manager should automatically detect it and connect.\nWhen you have connected to the internet, click the 'yes' button to proceed.\nIf you would like to exit the installer you may click 'no'.\nTo open a terminal and use this as a rescue cd, hit ctrl+alt+t."
 
 if [ "$?" = "1" ]
 	then exit
