@@ -40,7 +40,7 @@ gtk-theme-arc-git
 git
 reflector
 bash-completion
-lxterminal-gtk3
+lxterminal
 lynx
 wget
 yad

@@ -3,7 +3,7 @@
 set -e -u
 
 iso_name=zen_installer
-iso_label="ZEN_INSTALLER_$(date +%Y%m)"
+iso_label="ZEN_$(date +%Y%m)"
 iso_version=$(date +%Y.%m.%d)
 install_dir=arch
 work_dir=work
