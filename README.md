@@ -1,2 +1,2 @@
-# zen_installer-iso
-The iso for the Zen installer
+# Arch Live
+Arch Linux Live ISO Image
