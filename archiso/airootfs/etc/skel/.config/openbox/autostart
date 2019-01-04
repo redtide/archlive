@@ -16,8 +16,8 @@
 #
 #xfce-mcs-manager &
 
-tint2 &
+pcmanfm --desktop &
+lxpanel -p openbox &
 nm-applet &
+pnmixer &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-sh ~/.fehbg &
-sudo sh /initialise &
