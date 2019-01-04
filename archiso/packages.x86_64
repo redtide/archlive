@@ -55,7 +55,6 @@ sudo
 tcpdump
 testdisk
 usb_modeswitch
-vim-minimal
 vpnc
 wget
 wireless-regdb
@@ -66,6 +65,7 @@ xl2tpd
 
 # Audio Video
 
+alsa-utils
 mesa
 xf86-video-vmware
 xf86-video-ati
@@ -73,59 +73,53 @@ xf86-video-fbdev
 xf86-video-intel
 xf86-video-nouveau
 xf86-video-openchrome
-xorg-server 
-xorg-xinit 
-xorg-twm xterm 
-alsa-utils 
-pulseaudio 
-pulseaudio-alsa
-xf86-input-synaptics
+xorg-server
+xorg-xinit
 xf86-input-keyboard
+xf86-input-libinput
 xf86-input-mouse
-# intel-ucode
 
-# Virtualbox
+# VirtualBox
 
 virtualbox-guest-modules-arch
 virtualbox-guest-utils
 
-# Base
-
-# base
-# base-devel
-
 # Network
 
-networkmanager 
-network-manager-applet 
+networkmanager
 networkmanager-dispatcher-ntpd
+network-manager-applet
 
 # Desktop
-openbox
-tint2
-feh
-zenity
-# openbox-arc-git
-# gtk-theme-arc-git
-git
-reflector
+
 bash-completion
-lxterminal
-lynx
-# yad
-ttf-dejavu
-# obr-wallpapers
-gparted
-xfce4-terminal
-leafpad
-polkit-gnome
-gnome-keyring
 firefox
-# pacaur
-# obmenu-generator
-pcmanfm-gtk3
-
-# Utils
-
-rfkill
-
+firefox-i18n-it
+git
+geany
+geany-plugins
+gnome-alsamixer
+gnome-keyring
+gpart
+gparted
+gtk-engine-murrine
+gtk-engines
+gtk-theme-glossyblack
+gvfs
+lxpanel
+lxterminal-gtk2
+lynx
+nuovext-icon-theme
+oblogout
+obmenu-generator
+openbox
+pcmanfm
+pnmixer
+polkit-gnome
+reflector
+ttf-dejavu
+xcursor-vanilla-dmz
+xdg-user-dirs
+xdg-utils
+xtrlock
+zenity
