@@ -2,4 +2,6 @@
 
 ***\### Work In Progress \###***
 
-Arch Linux Live ISO Image Builder
+Graphical Arch Linux Live Installer ISO Image Builder
+
+Requires: [archiso](https://wiki.archlinux.org/index.php/archiso)
