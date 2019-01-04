@@ -6,3 +6,4 @@ Comment=Archlinux Installer
 Exec=sudo /usr/bin/arch-install
 Icon=system-software-install
 Categories=System;
+Terminal=true
