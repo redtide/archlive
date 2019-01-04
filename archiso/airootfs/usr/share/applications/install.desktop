@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Archlinux Installer
+GenericName=Archlinux Installer
+Comment=Archlinux Installer
+Exec=sudo /usr/bin/arch-install
+Icon=system-software-install
+Categories=System;
