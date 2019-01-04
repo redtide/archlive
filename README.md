@@ -1,7 +1,11 @@
-# Arch Live
+# Arch Live (Work In Progress)
 
-***\### Work In Progress \###***
-
-Graphical Arch Linux Live Installer ISO Image Builder
+A graphical Arch Linux live installer ISO image builder
 
 Requires: [archiso](https://wiki.archlinux.org/index.php/archiso)
+
+## Usage
+
+Run `setup.sh` in a terminal with sudo or as root.
+
+<img alt="Screenshot" src="archlive.png" width=640/>
