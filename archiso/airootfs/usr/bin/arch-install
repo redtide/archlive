@@ -372,7 +372,7 @@ kernel()
 	text="$text Please select the kernel that you would like to install."
 
 	kernel=$(zenity --list  --radiolist --height=500 --width=510 --title="$title" \
-		--text="text" --column "Select" --column "Kernel" \
+		--text="$text" --column "Select" --column "Kernel" \
 		FALSE linux \
 		FALSE linux-lts \
 		FALSE linux-hardened)
